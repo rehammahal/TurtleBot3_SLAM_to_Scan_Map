@@ -2,4 +2,5 @@
 
 Resources to done this task:
 
-- https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/
+- [Smart Methods AI session]()
+- [TurtleBot3 Website](https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/)
